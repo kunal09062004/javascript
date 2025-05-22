@@ -1,6 +1,6 @@
 let score = "33"
 
-// console.log(typeof score);
+ // console.log(typeof score);
 // console.log(typeof(score));
 
 let valueInNumber = Number(score)
@@ -14,15 +14,5 @@ let valueInNumber = Number(score)
 
 let isLoggedIn = 1
 
-let booleanIsLoggedIn = Boolean(isLoggedIn)
-// console.log(BooleanisLoggedIn)
-
-// 1 => true; 0 => false  
-// "" => false
-// "kunal" => true
-
-let someNumber = 33
-
-let stringNumber = String(someNumber)
-console.log(stringNumber);
-console.log(typeof stringNumber);
+let booleanIsLoggedIn = boolean(IsLoggedIn)
+console.log(booleanIsLoggedIn)
